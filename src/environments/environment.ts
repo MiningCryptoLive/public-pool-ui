@@ -1,5 +1,5 @@
 export const environment = {
-    production: true,
-    API_URL: 'https://doge.solopool.us:4001',
-    STRATUM_URL: 'doge.solopool.us'
+    production: false,
+    API_URL: 'http://localhost:3334',
+    STRATUM_URL: 'solopool.pro:21496'
 };
